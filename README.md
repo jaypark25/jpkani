@@ -1,11 +1,16 @@
-### Hi there 👋
+### 
+Hello! My name is Jay Park, and I'm currently a first-year student studying Business and Computer Science at UBC.
+- 🌱 I’m currently learning Website Development
+- 📫 How to reach me: https://www.linkedin.com/in/jaykbpark/
+- 😄 Pronouns: he/him
+
 
 <!--
 **jpkani/jpkani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
