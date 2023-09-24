@@ -1,8 +1,11 @@
 ### 
-Hello! My name is Jay Park, and I'm currently a first-year student studying Business and Computer Science at UBC.
-- 🌱 I’m currently learning Website Development
+Hello! My name is Jay Park, and I'm currently a second-year student studying business + cs at the University of British Columbia.
+I am also looking for 2024 co-op / internship opportunities in North America!
+
+
+- 🌱 I’m currently learning full-stack development :)
 - 📫 How to reach me: https://www.linkedin.com/in/jaykbpark/
-- 📧 e-mail : jay.park@cus.ca
+- 📧 e-mail : jayp@student.ubc.ca
 - 😄 Pronouns: he/him
 
 
